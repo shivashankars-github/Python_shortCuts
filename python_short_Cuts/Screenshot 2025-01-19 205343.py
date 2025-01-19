@@ -5,7 +5,7 @@ String_two = 'val1val2val3val4'
 Result = {'key1': 'val1', 'key2': 'val2', 'key3': 'val3', 'ke4': 'val4'}
 
 
-# Where do you can get code?
+# Where you can get code?
 # Here you can get : https://github.com/shivashankars-github/SDET_QA_Analyst/blob/main/README.md
 
 
