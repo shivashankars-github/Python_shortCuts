@@ -1,3 +1,8 @@
+This SDET_QA_Analyst repository contains all skills required by an AUTOMATION TESTER
+as of now Selenium_Pthon_Web_Test, Python_shortCuts available
+very soon other skills(api testing , database testing) will be added 
+
+
 # Selenium_Pthon_Web_Test      
 [table_static_requirement_001.py](https://github.com/shivashankars-github/SDET_QA_Analyst/blob/main/Selenium_Python_Web_Test/table_static_requirement_001.py)
 
