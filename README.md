@@ -1,4 +1,6 @@
 [Selenium_Pthon_Web_Test](https://github.com/shivashankars-github/SDET_QA_Analyst/tree/main/Selenium_Python_Web_Test)
+    [table_static_requirement_001.py](https://github.com/shivashankars-github/SDET_QA_Analyst/blob/main/Selenium_Python_Web_Test/table_static_requirement_001.py)
+    [table_static_requirement_001_V1.py](https://github.com/shivashankars-github/SDET_QA_Analyst/blob/main/Selenium_Python_Web_Test/table_static_requirement_001_V1.py)
 
 [Python_shortCuts](https://github.com/shivashankars-github/SDET_QA_Analyst/tree/main/python_short_Cuts)
 
